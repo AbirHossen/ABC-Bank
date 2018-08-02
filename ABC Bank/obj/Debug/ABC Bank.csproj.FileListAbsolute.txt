@@ -1,0 +1,38 @@
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\bin\Debug\ABC Bank.exe.config
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\bin\Debug\ABC Bank.exe
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\bin\Debug\ABC Bank.pdb
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC Bank.csprojResolveAssemblyReference.cache
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.CustomerForm.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.CustomerInfoUpdate.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.Form1.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.Properties.Resources.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC Bank.csproj.GenerateResource.Cache
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC Bank.exe
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC Bank.pdb
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.AllFixedDeposit.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.BankDetails.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.ChangePass.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.Close_Account.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.CustomerDetails.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.Deposit.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.FdForm.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.LoanForm.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.LoanPayment.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.Loans.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.LoanStatus.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.MoneyTransfer.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.TransactionHistory.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.UpdateUser.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.UserDetails.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.UserInfo.resources
+c:\users\atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.Withdraw.resources
+C:\Users\Atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.RemoveUser.resources
+C:\Users\Atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.EmployeeForm.resources
+C:\Users\Atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.ManagerForm.resources
+C:\Users\Atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\bin\Debug\ABC Bank.exe.manifest
+C:\Users\Atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\bin\Debug\ABC Bank.application
+C:\Users\Atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC Bank.exe.manifest
+C:\Users\Atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC Bank.application
+C:\Users\Atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.AdminHome.resources
+C:\Users\Atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC_Bank.AllTransactions.resources
+C:\Users\Atom\documents\visual studio 2017\Projects\ABC Bank\ABC Bank\obj\Debug\ABC Bank.csproj.CoreCompileInputs.cache
